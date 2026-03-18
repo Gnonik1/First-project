@@ -47,7 +47,7 @@ a{
 	max-width: 1195px;
 	height: 600px;
 	border-radius: 15px;
-	margin: 100px auto 30px auto;
+	margin: 100px 362px 30px 362px;
 	object-fit: cover;
 	vertical-align: top;
 	display: block;
@@ -58,6 +58,7 @@ a{
 	font-size: 28px;
 	text-align: left;
 	letter-spacing: 0px;
+	margin-left: 362px;
 	display: inline-block;
 	vertical-align: top;
 }
@@ -67,7 +68,7 @@ a{
 	width: 219px;
 	height: 219px;
 	border-radius: 15px;
-	margin: 60px 25px 60px 0;
+	margin: 60px 25px 60px 362px;
 	object-fit: cover;
 	display: inline-block;
 }
@@ -77,6 +78,7 @@ a{
 	font-size: 16px;
 	text-align: left;
 	letter-spacing: 0px;
+	margin-left: 484.5px;
 	margin-bottom: 18px;
 	display: block;
 	vertical-align: top;
@@ -111,8 +113,7 @@ header nav ul li a{
 	letter-spacing: 0px;
 	text-transform: uppercase;
 	margin-right: 43px;
-	margin-top: 37px;
-	margin-bottom: auto;
+	margin-top: 30px;
 	display: inline-block;
 	vertical-align: top;
 }
