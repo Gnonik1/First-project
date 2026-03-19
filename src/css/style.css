@@ -24,7 +24,7 @@ a{
 	max-width: 115px;
 	height: 65px;
 	background-color: transparent;
-	margin: 40px 0 0 240px;
+	margin: 40px 488px 0 240px;
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -56,11 +56,11 @@ a{
 #h1{
 	color: #171717;
 	font-size: 28px;
-	text-align: left;
+	text-align: center;
 	letter-spacing: 0px;
 	margin-left: 362px;
 	display: inline-block;
-	vertical-align: top;
+	vertical-align: middle;
 }
 
 .gallery img{
@@ -68,7 +68,7 @@ a{
 	width: 219px;
 	height: 219px;
 	border-radius: 15px;
-	margin: 60px 25px 60px 0px;
+	margin: 60px 20px 60px 0px;
 	object-fit: cover;
 	display: inline-block;
 }
@@ -100,7 +100,7 @@ a{
 	letter-spacing: 0px;
 	margin: 58px auto 0 auto;
 	padding: 18px 57px;
-	display: inline-block;
+	display: block;
 	vertical-align: middle;
 }
 
@@ -118,7 +118,7 @@ header nav ul li a{
 	letter-spacing: 0px;
 	text-transform: uppercase;
 	margin-right: 43px;
-	margin-top: 30px;
+	margin-top: 37px;
 	display: inline-block;
 	vertical-align: middle;
 }
