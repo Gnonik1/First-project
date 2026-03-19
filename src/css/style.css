@@ -55,7 +55,7 @@ a{
 	padding: 18px 36px;
 	display: inline-block;
 	vertical-align: middle;
-	margin-right: 241px;
+	margin-right: auto;
 }
 
 #main-photo{
@@ -110,6 +110,8 @@ a{
 }
 
 .more{
+	font-family: 'DejaVu Sans Condensed Bold', sans-serif;
+	font-weight: 700;
 	border-radius: 28px;
 	background-color: #0A22F4;
 	text-decoration: none;
@@ -118,7 +120,7 @@ a{
 	font-size: 16px;
 	text-align: center;
 	letter-spacing: 0px;
-	margin: 58px auto 0 auto;
+	margin: 58px auto 0 790px;
 	padding: 18px 57px;
 	display: inline-block;
 	vertical-align: middle;
