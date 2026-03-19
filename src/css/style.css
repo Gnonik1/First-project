@@ -68,9 +68,13 @@ a{
 	width: 219px;
 	height: 219px;
 	border-radius: 15px;
-	margin: 60px 25px 60px 362px;
+	margin: 60px 25px 60px 0px;
 	object-fit: cover;
 	display: inline-block;
+}
+
+.gallery img:first-child{
+    margin-left: 362px;
 }
 
 .text{
@@ -81,7 +85,8 @@ a{
 	margin-left: 484.5px;
 	margin-bottom: 18px;
 	display: block;
-	vertical-align: top;
+	vertical-align: middle;
+	max-width: 951px;
 }
 
 .more{
@@ -95,8 +100,8 @@ a{
 	letter-spacing: 0px;
 	margin: 58px auto 0 auto;
 	padding: 18px 57px;
-	display: inline-block;
-	vertical-align: top;
+	display: block;
+	vertical-align: middle;
 }
 
 header{
@@ -115,7 +120,7 @@ header nav ul li a{
 	margin-right: 43px;
 	margin-top: 30px;
 	display: inline-block;
-	vertical-align: top;
+	vertical-align: middle;
 }
 
 header nav ul{
